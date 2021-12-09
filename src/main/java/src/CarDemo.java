@@ -35,7 +35,7 @@ class Car {
         speed = 0;
         //fuelConsumption (km/liter)
         fuelConsumption = 20;
-        gasTank = 100;
+        gasTank = 200;
         travelledTimeUp = 0;
     }
     
