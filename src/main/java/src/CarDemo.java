@@ -49,7 +49,7 @@ class Car {
     }
     
     void travelledTimeUp(int increment) {
-        travelledTimeUp = travelledTimeUp + increment;
+        travelledTimeUp += increment;
     }
     
     void printStateTank(){
