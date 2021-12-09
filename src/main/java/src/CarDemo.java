@@ -9,13 +9,13 @@ class CarDemo{
         Car motor1 = new Car();
         Car motor2 = new Car();
         Car motor3 = new Car();
-        motor1.speedUp(20);
+        motor1.speedUp(30);
         motor1.travelledTimeUp(12);
         motor1.printStateTank();
-        motor2.speedUp(30);
+        motor2.speedUp(40);
         motor2.travelledTimeUp(15);
         motor2.printStateTank();
-        motor3.speedUp(40);
+        motor3.speedUp(50);
         motor3.travelledTimeUp(20);
         motor3.printStateTank();
     }
